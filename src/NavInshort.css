@@ -1,0 +1,11 @@
+.nav {
+    height: 71px;
+    
+    box-shadow: 0px 1px 8px #2618e9;
+    display: flex;
+    text-align: center;
+  }
+  
+  .menu {
+    flex: 0.48;
+  }
